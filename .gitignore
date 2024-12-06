@@ -2,3 +2,4 @@
 /backend_booking/node_modules
 /frontend_booking/.env
 /frontend_booking/node_modules
+/backend_booking/private.js
